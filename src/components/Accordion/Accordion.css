@@ -1,0 +1,21 @@
+.accordionItem {
+    width: 500px;
+    margin-bottom: 20px;
+    border: 1px solid grey;
+  }
+  
+  .accordionToggle {
+    padding: 5px;
+  }
+  
+  .panelOn {
+    background-color: green;
+    display: block;
+    padding: 5px;
+    color: white;
+    height: 50px;
+  }
+  
+  .panelOff {
+    display: none;
+  }
