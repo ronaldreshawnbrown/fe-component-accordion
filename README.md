@@ -1,2 +1,2 @@
-# fe-react-components
+# fe-component-accordion
 A simple accordion component  
